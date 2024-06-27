@@ -1,0 +1,18 @@
+.formulario{
+	padding-left: 50px; 
+}
+
+.counter{
+	padding-top: 40px;
+	padding-left: 50px;
+	padding-bottom: 25px;
+}
+
+body{
+	background-image: url("https://d.newsweek.com/en/full/2257599/ancient-gold-coins-falling.webp?w=2500&f=216ae553dab3379c32bbffc149b5cdcf");
+	color: white
+}
+
+.activities{
+	border: 1px solid #000;
+}
